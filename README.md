@@ -15,7 +15,7 @@ Tujuan akhirnya adalah untuk mengungkap hubungan linear sebesar apa, serta mende
 Analisis ini menggunakan dataset yang tersedia untuk umum yang relevan dengan topik penelitian.
 Dataset: Teen Phone Addiction
 Sumber: Kaggle
-Owner: Sumedh1507 
+Owner: Sumedh1507
 URL: <https://www.kaggle.com/datasets/sumedh1507/teen-phone-addiction>
 
 ## Insight & findings
